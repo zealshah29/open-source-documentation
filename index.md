@@ -1,4 +1,4 @@
 ---
-title: How to Contribute to someone's repository on Github : 
+title: How to Contribute to someone's repository on Github -
 ---
 
