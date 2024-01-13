@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: How to Contribute to someone's repository on Github : 
 ---
 
