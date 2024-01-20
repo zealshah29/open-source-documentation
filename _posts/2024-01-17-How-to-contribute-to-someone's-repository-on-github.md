@@ -57,7 +57,7 @@ Ensure the base repository and branch are set to the original repository and the
 Write a clear and concise title and description for your pull request.
 Click "Create Pull Request" to submit your changes for review.
 
-**Step 9: Merge**
+**Step 8: Merge**
 Once the changes are approved, the repository owner or maintainer can merge your pull request.
 
 Congratulations! You have successfully contributed to someone's repository on GitHub. If you face any issues while following these steps, feel free to raise an issue and add that error under that given step. Happy contributing!
