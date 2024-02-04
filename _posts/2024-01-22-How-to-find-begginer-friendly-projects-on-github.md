@@ -32,6 +32,6 @@ Seek recommendations from community members about beginner-friendly projects.
 
 Once you find a potential project, thoroughly read its documentation and contributing guidelines. Understand the project's purpose, architecture, and development workflow. Follow any specific setup instructions provided in the documentation. Engage with the project's community through communication channels like Discord, Slack, or mailing lists. Ask questions, express your interest in contributing, and seek guidance on suitable beginner tasks. 
 
-Finally, familiarize yourself with version control systems, especially Git, as GitHub heavily relies on it. Learn how to fork a repository, create branches, make changes, and submit pull requests. You can refer to my blog on 'How to contribute to someone's repository on GitHub' to learn this. 
+Finally, familiarize yourself with version control systems, especially Git, as GitHub heavily relies on it. Learn how to fork a repository, create branches, make changes, and submit pull requests. You can refer to my blog on [How to contribute to someone's repository on GitHub](https://zealshah29.github.io/open-source-documentation/2024/01/17/How-to-contribute-to-someone's-repository-on-github.html) to learn this. 
 
 Happy Contributing!
